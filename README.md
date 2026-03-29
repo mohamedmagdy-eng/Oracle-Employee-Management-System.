@@ -19,6 +19,24 @@ The project demonstrates strong capabilities in PL/SQL programming, business log
 
 ---
 
+
+## 🚀 Features
+- Full CRUD Operations
+- Oracle Forms UI (Canvas-based)
+- Triggers (Pre-Query, When-Button-Pressed)
+- Stored Procedures for business logic
+- Data Integrity enforcement
+
+---
+
+
+## 🛠️ Technologies
+- SQL
+- PL/SQL
+- Oracle Forms
+
+---
+
 ## ⚙️ Key Technical Implementations
 
 ---
